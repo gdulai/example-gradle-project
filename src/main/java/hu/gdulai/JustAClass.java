@@ -1,4 +1,4 @@
-package org.example;
+package hu.gdulai;
 
 public class JustAClass {
 }
